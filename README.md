@@ -1,4 +1,4 @@
-Diabetes Prediction Project
+# Diabetes Prediction Project
 Diabetes Prediction is a beginner-friendly machine learning project that helped me take my first steps into the world of ML. Completing this project gave me a strong motivation to explore more in this field.
 
 # Project Overview
@@ -35,5 +35,5 @@ Accuracy on the test data.
 Building a Predictive System
 A simple system is implemented to take user input and predict whether the person is likely diabetic.
 
-✨ Conclusion
+# Conclusion
 This project was simple yet enlightening. I enjoyed building it and learned a lot about the basics of machine learning, data handling, and model evaluation. It has encouraged me to take on more ML projects and deepen my understanding.
